@@ -84,6 +84,11 @@ p {
     height: 5px;
 }
 
+.note {
+    font-size: 0.6rem;
+    margin: 5px 0;
+  }
+
 .right {
     justify-content: flex-end;
 }
